@@ -1,1 +1,1 @@
-Jupyter notebook of pandas_foundation
+Jupyter notebook of pandas_foundation all chapters
